@@ -1,5 +1,5 @@
 body{
-    font-family: Helvetica, sans-serif
+    font-family: 'Barlow Semi Condensed', sans-serif;
 }
 h3{
     background-color: cornflowerblue;
