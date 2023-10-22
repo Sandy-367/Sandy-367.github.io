@@ -1,7 +1,15 @@
 body{
     font-family: 'Barlow Semi Condensed', sans-serif;
 }
+h1{
+    background-color: cornsilk;
+    text-align: center;
+}
 h3{
-    background-color: cornflowerblue;
+    background-color: seagreen;
     font-weight: bold;
+    color: white;
+}
+li{
+    font-size: small;
 }
