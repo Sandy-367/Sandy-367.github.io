@@ -5,18 +5,18 @@ body{
     background-color: lightgoldenrodyellow;
     text-align: center;
 }
-h2{
+.list h3{
     color: seagreen;
 }
-h2 p{
+.list p{
     text-align: center;
     font-style: italic;
 }
-h3{
+.details h3{
     background-color: seagreen;
     font-weight: bold;
     color: white;
 }
-.class li{
+.details li{
     font-size: small;
 }
