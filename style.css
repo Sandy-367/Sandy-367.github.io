@@ -1,9 +1,16 @@
 body{
     font-family: 'Barlow Semi Condensed', sans-serif;
 }
-h1{
+#Top{
     background-color: lightgoldenrodyellow;
     text-align: center;
+}
+#CARs{
+    color: seagreen;
+}
+#CARs.p{
+    text-align: center;
+    font-style: italic;
 }
 h3{
     background-color: seagreen;
