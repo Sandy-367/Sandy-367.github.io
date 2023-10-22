@@ -5,10 +5,10 @@ body{
     background-color: lightgoldenrodyellow;
     text-align: center;
 }
-#CARs{
+h2{
     color: seagreen;
 }
-#CARs.p{
+h2 p{
     text-align: center;
     font-style: italic;
 }
@@ -17,6 +17,6 @@ h3{
     font-weight: bold;
     color: white;
 }
-li{
+.class li{
     font-size: small;
 }
