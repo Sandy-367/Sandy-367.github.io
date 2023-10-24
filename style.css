@@ -28,10 +28,13 @@ header{
 }
 
 .list li{
-    padding: 10px;
+    list-style-type: disclosure-closed;
+    list-style-position: outside;
+    padding: 0;
     line-height: 150%;
     background-color: hsla(146, 50%, 36%,.6);
-    margin: 0;
+    margin: auto 10px;
+    border-left: 20px solid seagreen;
 
 }
 .details h3{
@@ -41,6 +44,5 @@ header{
 }
 .details li{
     font-size: small;
-    color: rgb(255, 255, 255
-    );
+    color: black;
 }
