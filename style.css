@@ -1,7 +1,7 @@
 body{
     font-family: 'Barlow Semi Condensed', sans-serif;
     background-color: oldlace;
-    padding: 0;
+    padding: 10px;
     margin: 0;
 }
 #Top{
@@ -19,14 +19,13 @@ header{
     padding: 20px;
     margin: 20px;
     color: white;
+    font-style: italic;
+    font-weight: bold;
 }
 .list h3{
     color: seagreen;
 }
-.list p{
-    text-align: center;
-    font-style: italic;
-}
+
 .details h3{
     background-color: seagreen;
     font-weight: bold;
