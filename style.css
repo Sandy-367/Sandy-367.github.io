@@ -24,8 +24,16 @@ header{
 }
 .list h3{
     color: seagreen;
+    text-align: center;
 }
 
+.list li{
+    padding: 10px;
+    line-height: 150%;
+    background-color: hsla(146, 50%, 36%,.6);
+    margin: 0;
+
+}
 .details h3{
     background-color: seagreen;
     font-weight: bold;
@@ -33,4 +41,6 @@ header{
 }
 .details li{
     font-size: small;
+    color: rgb(255, 255, 255
+    );
 }
