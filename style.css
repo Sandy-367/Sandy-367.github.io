@@ -1,9 +1,20 @@
 body{
     font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color: blanchedalmond;
+    padding: 0;
+    margin: 0;
 }
 #Top{
-    background-color: lightgoldenrodyellow;
+    background-color: oldlace;
     text-align: center;
+    height: 200px;
+}
+header{
+    text-align: center;
+    background-color: lightseagreen;
+    padding: 10px;
+    margin: 10px;
+    color: oldlace;
 }
 .list h3{
     color: seagreen;
